@@ -10,3 +10,8 @@
 
 //space doesnot allow while declaring variable.
 //Example: let second num = 5000;
+
+//string:
+
+//string is a collection of characters.
+//string should be in "..."
